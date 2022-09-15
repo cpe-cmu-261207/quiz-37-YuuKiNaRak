@@ -17,15 +17,15 @@ export default function Home() {
         <div className="vstack gap-3">
           <div className="d-flex align-items-center gap-3">
             <img
-              src="/profileImages/handsome.jpg"
+              src="/profileImages/IMG_0137.jpg"
               width="48"
               height="48"
               className="rounded-circle"
               style={{ objectFit: "cover" }}
             />
-            <span className="fw-semibold fs-5">Chayanin Suatap 12345678</span>
+            <span className="fw-semibold fs-5">Natchanon Nantasri 640612086</span>
           </div>
-          <span>Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207</span>
+          <span>Quiz ตึงๆเด้งๆจังเลยครับ #261207</span>
           <div className="d-flex align-items-center gap-1">
             <img src="/like.svg" width={20}></img>
             <span className="text-muted">100 คน</span>
